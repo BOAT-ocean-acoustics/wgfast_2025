@@ -10,6 +10,10 @@ parts:
   - caption: Pre-workshop Setup
     chapters:
     - file: pre_workshop_setup # Pre-workshop notes
+    - file: github_setup
+    - file: git_setup
+    #- file:    #micromamba setup
+    #- file:    #jupyter setup
   - caption: Agenda
     chapters:
     - file: Agenda
